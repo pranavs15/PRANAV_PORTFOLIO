@@ -1,5 +1,7 @@
 // @flow strict
+'use client'
 
+// Rest of your component code
 import * as React from 'react';
 
 function ProjectCard({ project }) {

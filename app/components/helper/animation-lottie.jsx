@@ -1,5 +1,6 @@
-"use client"
+'use client'
 
+// Rest of your component code
 import Lottie from "lottie-react";
 
 const AnimationLottie = ({ animationPath, width }) => {

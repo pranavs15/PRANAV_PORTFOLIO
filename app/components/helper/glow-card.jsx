@@ -1,4 +1,6 @@
-"use client"
+'use client'
+
+// Rest of your component code
 
 import { useEffect } from 'react';
 

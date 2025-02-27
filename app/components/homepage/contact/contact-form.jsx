@@ -1,5 +1,7 @@
-"use client";
-// @flow strict
+'use client'
+
+// Rest of your component code
+
 import { isValidEmail } from "@/utils/check-email";
 import axios from "axios";
 import { useState } from "react";

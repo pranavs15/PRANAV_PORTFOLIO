@@ -1,3 +1,6 @@
+'use client'
+
+// Rest of your component code
 import { projectsData } from '@/utils/data/projects-data';
 import ProjectCard from './project-card';
 

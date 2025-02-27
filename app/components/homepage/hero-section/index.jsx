@@ -1,5 +1,7 @@
 // @flow strict
+'use client'
 
+// Rest of your component code
 import { personalData } from "@/utils/data/personal-data";
 import Image from "next/image";
 import Link from "next/link";

@@ -1,4 +1,4 @@
-'use client'
+
 
 // Rest of your component code
 import { GoogleTagManager } from "@next/third-parties/google";

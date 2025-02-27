@@ -1,3 +1,6 @@
+'use client'
+
+// Rest of your component code
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [

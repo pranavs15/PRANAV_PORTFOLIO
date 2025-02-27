@@ -1,3 +1,6 @@
+'use client'
+
+// Rest of your component codes
 import { NextResponse } from "next/server";
 
 export async function GET(request) {

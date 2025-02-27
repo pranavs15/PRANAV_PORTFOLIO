@@ -1,3 +1,6 @@
+'use client'
+
+// Rest of your component code
 const path = require('path')
  
 module.exports = {
